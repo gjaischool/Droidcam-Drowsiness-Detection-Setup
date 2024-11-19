@@ -1,0 +1,24 @@
+### `.gitignore`
+
+#### Content for .gitignore
+
+```
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Data files
+shape_predictor_68_face_landmarks.dat
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+*.env
+
+# IDE Specific files
+*.idea/
+.vscode/
+*.DS_Store
+```
