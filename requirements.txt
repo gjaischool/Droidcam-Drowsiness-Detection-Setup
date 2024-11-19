@@ -1,0 +1,10 @@
+### `requirements.txt`
+
+#### Content for requirements.txt
+
+```
+dlib
+opencv-python
+scipy
+numpy
+```
