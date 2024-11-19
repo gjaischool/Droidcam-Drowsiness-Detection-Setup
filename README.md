@@ -1,8 +1,3 @@
-# Droidcam-Drowsiness-Detection-Setup
-
-
-## Files to Include
-
 ### `README.md`
 
 #### Content for README.md
