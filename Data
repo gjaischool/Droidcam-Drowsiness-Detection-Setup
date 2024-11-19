@@ -1,0 +1,3 @@
+### Data
+
+- Download `shape_predictor_68_face_landmarks.dat` from [dlib's official page](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and place it in the root directory of the project. It will be excluded from the version control by the `.gitignore` file.
