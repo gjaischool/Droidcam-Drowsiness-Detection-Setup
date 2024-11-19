@@ -1,0 +1,9 @@
+### Directory Structure
+
+```
+.
+|-- droidcam_drowsiness_detection.py
+|-- README.md
+|-- requirements.txt
+|-- .gitignore
+|-- shape_predictor_68_face_landmarks.dat (not included in version control)
